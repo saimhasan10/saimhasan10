@@ -3,8 +3,9 @@
 
 <h3 align="center">A passionate Programmer</h3>
 
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saimhasan10&label=Profile%20views&color=0e75b6&style=flat" alt="saimhasan10" /> </p>
-
+<br>
  
 - ♥️    I enjoy code with coffee ☕
  
@@ -24,8 +25,12 @@
 
 
 <br><br>
+<p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimhasan10&show_icons=true&locale=en&layout=compact" alt="saimhasan10" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=saimhasan10&show_icons=true&locale=en" alt="saimhasan10" /></p><br>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=saimhasan10&show_icons=true&locale=en" alt="saimhasan10" /></p>
+</p>
+
+
 
 
