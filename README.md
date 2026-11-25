@@ -456,17 +456,7 @@ My technical learning interests include:
 
 </div>
 
----
 
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/saimhasan10/saimhasan10/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution animation"/>
-
-</div>
-
----
 
 ## 🌐 Let's Connect
 
