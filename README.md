@@ -1,83 +1,111 @@
 
-<!-- ====================================================== -->
-<!-- SAIM HASAN | PRODUCT MANAGEMENT PROFILE                -->
-<!-- ====================================================== -->
-
 <div align="center">
 
 # Hi, I'm Saim Hasan 👋
 
-### Product Manager · Product Strategy · Product Execution
+### Product Manager | Product Strategy | Product Discovery
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&color=BB684D&center=true&vCenter=true&width=650&lines=Discover+the+Right+Problems;Turn+Insights+into+Product+Decisions;Connect+Users%2C+Business+%26+Technology;Build%2C+Measure%2C+Learn+%26+Improve" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Understanding+Users+%26+Business+Needs;Turning+Problems+Into+Opportunities;Connecting+Strategy%2C+Design+%26+Technology;Building+Products+That+Create+Value" alt="Typing animation"/>
 
 <br/>
 
-<a href="https://github.com/saimhasan10">
-<img src="https://komarev.com/ghpvc/?username=saimhasan10&label=PROFILE+VIEWS&color=283A31&style=flat-square" alt="Profile views"/>
-</a>
-
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/saimhasan09">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-283A31?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
 </a>
 <a href="mailto:hello@saimhasannahid.com">
-<img src="https://img.shields.io/badge/Email-Contact-BB684D?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
 </a>
 
 <br/><br/>
 
-*Understanding problems. Making informed decisions. Creating meaningful product experiences.*
+<img src="https://komarev.com/ghpvc/?username=saimhasan10&label=PROFILE+VIEWS&color=0D1117&style=flat-square" alt="Profile views"/>
 
 </div>
 
 ---
 
-<details open>
-<summary><b>🧭 Explore This Profile</b></summary>
-
-- [About Me](#-about-me)
-- [Product Management Skill Set](#-product-management-skill-set)
-- [Product Frameworks](#-product-frameworks--methodologies)
-- [Product Development Lifecycle](#-how-i-approach-product-development)
-- [Product Tools](#️-product-tools--technology)
-- [Featured Product Case Study](#-featured-product-case-study)
-- [Product Metrics](#-product-analytics--metrics)
-- [Technical Understanding](#-technical-understanding)
-- [GitHub Analytics](#-github-analytics)
-- [Let's Connect](#-lets-connect)
-
-</details>
-
----
-
 ## 👨‍💻 About Me
 
-I'm Saim Hasan, interested in building products at the intersection of **user needs, business objectives, design, and technology**.
+I'm Saim Hasan, interested in building products at the intersection of **user needs, business objectives, design, and technology.**
 
 My approach to product management starts with understanding the problem before deciding what to build.
 
-I focus on connecting product discovery with strategic decision-making and execution — translating user insights into clear requirements, prioritizing opportunities, collaborating with cross-functional teams, and evaluating outcomes through meaningful metrics.
+I'm particularly interested in connecting product discovery with strategic decision-making, prioritization, user experience, and product execution.
 
-My areas of interest include:
+I believe great products are built by understanding users, making informed decisions, and continuously improving the value delivered.
 
-- Product strategy and product vision
-- User research and problem validation
-- Product discovery and opportunity assessment
-- Product roadmapping and prioritization
-- UX collaboration and product prototyping
-- Agile product development and execution
-- Product analytics and continuous improvement
-- AI-powered products and responsible AI
+---
 
-I believe a successful product is not defined by the number of features delivered, but by the value it creates for its users and the business.
+## 🎯 Areas of Interest
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+**Product Strategy**
+
+Product vision, positioning and business alignment.
+
+</td>
+<td width="25%" align="center">
+
+**User Research**
+
+Understanding user needs and validating problems.
+
+</td>
+<td width="25%" align="center">
+
+**Product Discovery**
+
+Identifying opportunities and defining solutions.
+
+</td>
+<td width="25%" align="center">
+
+**Product Planning**
+
+Roadmapping and prioritization.
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**UX Collaboration**
+
+User journeys and prototyping.
+
+</td>
+<td align="center">
+
+**Product Execution**
+
+Agile delivery and collaboration.
+
+</td>
+<td align="center">
+
+**Product Analytics**
+
+Data-informed decisions and improvement.
+
+</td>
+<td align="center">
+
+**Product Growth**
+
+Go-to-market and product adoption.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎯 Product Management Skill Set
 
-<details open>
+<details>
 <summary><b>01 · Product Strategy & Product Thinking</b></summary>
 
 - Product vision and mission
@@ -218,223 +246,75 @@ I believe a successful product is not defined by the number of features delivere
 
 ---
 
-## 🧩 Product Frameworks & Methodologies
+## 🧩 Frameworks & Methodologies
 
-| Area | Frameworks / Methods |
-|---|---|
-| Product strategy | SWOT, Porter's Five Forces |
-| Product discovery | JTBD, User Interviews, Assumption Mapping |
-| Prioritization | RICE, MoSCoW, Kano |
-| Product planning | OKRs, Now-Next-Later Roadmap |
-| UX & requirements | User Journey, Story Mapping, INVEST |
-| Product execution | Agile, Scrum, Kanban, Lean |
-| Stakeholder management | Power-Interest Matrix |
-| Product analytics | North Star Metric, AARRR, Funnel, Cohort |
-| Problem solving | 5 Whys, Fishbone, Pareto |
-| Growth | Segmentation, Positioning, CAC/LTV |
-| Interview & career | STAR, Product Sense, Case Interviews |
+<table>
+<tr>
+<td width="33%" valign="top">
 
----
+**Strategy**
 
-## 🔄 How I Approach Product Development
+- SWOT Analysis
+- Porter's Five Forces
+- Product Vision
+- Desirability / Viability / Feasibility
 
-<div align="center">
+</td>
+<td width="33%" valign="top">
 
-```mermaid
-flowchart TD
-    A["01 · DISCOVER<br/>Research & Understand"] --> B["02 · DEFINE<br/>Frame the Problem"]
-    B --> C["03 · STRATEGIZE<br/>Prioritize Opportunities"]
-    C --> D["04 · DESIGN<br/>Flows, Prototypes & PRD"]
-    D --> E["05 · EXECUTE<br/>Build & Collaborate"]
-    E --> F["06 · LAUNCH<br/>Release & Adoption"]
-    F --> G["07 · MEASURE<br/>Metrics & Feedback"]
-    G --> H["08 · IMPROVE<br/>Learn & Iterate"]
-    H --> A
+**Discovery**
 
-    classDef stage fill:#283A31,stroke:#BB684D,color:#FFFDF9
-    class A,B,C,D,E,F,G,H stage
-```
+- JTBD
+- User Interviews
+- Assumption Mapping
+- Customer Journey Mapping
 
-</div>
+</td>
+<td width="33%" valign="top">
 
-**My decision-making lens:**
+**Prioritization**
 
-- **Desirability:** Does this solve a meaningful user problem?
-- **Viability:** Does it support a sustainable business objective?
-- **Feasibility:** Can the team build and maintain it?
-- **Responsibility:** Is it safe, accessible, fair and privacy-conscious?
+- RICE
+- MoSCoW
+- Kano Model
+- Impact / Effort Matrix
 
----
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-## 🛠️ Product Tools & Technology
+**Planning**
 
-### Product Management & Collaboration
+- OKRs
+- MVP Scoping
+- Product Roadmaps
+- Story Mapping
 
-<p>
-<a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/></a>
-<a href="https://trello.com/"><img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white"/></a>
-<a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-<a href="https://www.atlassian.com/software/confluence"><img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/></a>
-<a href="https://miro.com/"><img src="https://img.shields.io/badge/Miro-FFD02F?style=flat-square&logo=miro&logoColor=black"/></a>
-</p>
+</td>
+<td valign="top">
 
-### UX, Research & Prototyping
+**Execution**
 
-<p>
-<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
-<a href="https://forms.google.com/"><img src="https://img.shields.io/badge/Google_Forms-7248B9?style=flat-square&logo=googleforms&logoColor=white"/></a>
-</p>
+- Agile
+- Scrum
+- Kanban
+- Lean
 
-### Product Analytics & Business Intelligence
+</td>
+<td valign="top">
 
-<p>
-<a href="https://mixpanel.com/"><img src="https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square&logo=mixpanel&logoColor=white"/></a>
-<a href="https://amplitude.com/"><img src="https://img.shields.io/badge/Amplitude-005AF0?style=flat-square&logo=amplitude&logoColor=white"/></a>
-<a href="https://analytics.google.com/"><img src="https://img.shields.io/badge/Google_Analytics_4-E37400?style=flat-square&logo=googleanalytics&logoColor=white"/></a>
-<a href="https://lookerstudio.google.com/"><img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white"/></a>
-<a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/></a>
-<a href="https://sheets.google.com/"><img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white"/></a>
-</p>
+**Analytics & Growth**
 
-### Technical Collaboration & Monitoring
+- AARRR
+- North Star Metric
+- Funnel Analysis
+- Cohort Analysis
+- CAC / LTV
 
-<p>
-<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/></a>
-<a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/></a>
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
-<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
-
-### Creative & Professional Tools
-
-<p>
-<a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-## 🚀 Featured Product Case Study
-
-### BandPath — IELTS Learning Platform
-
-<sub>Product management field project · Feature-first product development</sub>
-
-**Product concept**
-
-BandPath is an IELTS learning platform concept focused on helping learners improve their preparation experience.
-
-Rather than attempting to build an entire platform at once, the product approach focuses on validating and developing one meaningful feature at a time.
-
-**Initial product focus**
-
-Speaking Practice → Recording → Feedback → Next Practice
-
-**Problem hypothesis**
-
-IELTS learners may struggle to maintain consistent speaking practice and receive specific, actionable feedback.
-
-**Target user hypothesis**
-
-Mobile-first IELTS self-learners, initially exploring learners around Band 5.5–6.5.
-
-### Product Strategy
-
-- Start with a focused user segment.
-- Understand actual speaking practice challenges.
-- Validate assumptions through research.
-- Define a narrow MVP scope.
-- Build a testable user experience.
-- Measure meaningful learning behavior.
-- Iterate using evidence and feedback.
-
-### Core Product Deliverables
-
-| Product Area | Deliverable |
-|---|---|
-| Discovery | Problem brief and interview guide |
-| Research | Evidence log and user insights |
-| Strategy | Feature prioritization and MVP scope |
-| Design | User flows and clickable prototype |
-| Requirements | PRD, stories and acceptance criteria |
-| Execution | Backlog and release plan |
-| Analytics | Event tracking and funnel dashboard |
-| Improvement | Feedback, issue log and iteration plan |
-
-### North Star Metric
-
-Weekly learners completing at least three meaningful speaking practice sessions.
-
-**Important:** This is a proposed product metric, not a claim of measured user performance.
-
----
-
-## 📈 Product Analytics & Metrics
-
-I focus on understanding product performance beyond surface-level activity.
-
-| Metric Category | Example Metrics |
-|---|---|
-| Acquisition | Traffic, source, sign-up conversion |
-| Activation | First meaningful practice completed |
-| Engagement | Practice frequency, sessions per user |
-| Retention | Weekly and monthly returning learners |
-| Revenue | Conversion, CAC, LTV |
-| Quality | Upload success, feedback quality, latency |
-| Reliability | Error rate, availability, incident frequency |
-
-### Product Measurement Approach
-
-1. Define the desired user outcome.
-2. Select a meaningful success metric.
-3. Establish the baseline.
-4. Track the user journey and conversion funnel.
-5. Analyze qualitative and quantitative evidence.
-6. Identify bottlenecks and root causes.
-7. Prioritize the next improvement.
-
----
-
-## 🔬 Problem Solving & Root Cause Analysis
-
-<details>
-<summary><b>Explore my problem-solving methods</b></summary>
-
-- **5 Whys:** Trace recurring problems to underlying causes.
-- **Fishbone Diagram:** Organize potential causes across categories.
-- **Pareto Analysis:** Identify high-impact contributors.
-- **Funnel Analysis:** Locate where users abandon a journey.
-- **Cohort Analysis:** Understand behavioral differences over time.
-- **Qualitative Synthesis:** Identify recurring themes from user feedback.
-
-</details>
-
----
-
-## ⚙️ Technical Understanding
-
-I value technical literacy as an important part of product decision-making and cross-functional collaboration.
-
-My technical learning interests include:
-
-- Software Development Lifecycle (SDLC)
-- Frontend and backend fundamentals
-- API concepts and request-response behavior
-- Database fundamentals
-- Web application architecture
-- Product instrumentation and event tracking
-- QA, edge cases and release reliability
-- AI feature evaluation and reliability
-
-### Responsible AI Product Thinking
-
-- AI output quality and evaluation
-- Human review and feedback loops
-- Privacy and informed consent
-- Hallucination and reliability risks
-- Latency and failure handling
-- Responsible product claims
-- Fallback experiences
+</td>
+</tr>
+</table>
 
 ---
 
@@ -443,49 +323,51 @@ My technical learning interests include:
 <div align="center">
 
 <a href="https://github.com/saimhasan10">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=saimhasan10&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=saimhasan10&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/saimhasan10">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimhasan10&layout=compact&theme=transparent&hide_border=true" alt="Top languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimhasan10&layout=compact&theme=transparent&hide_border=true" alt="Most used languages"/>
 </a>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=saimhasan10&theme=transparent&hide_border=true" alt="Contribution streak"/>
+<a href="https://github.com/saimhasan10">
+<img width="75%" src="https://streak-stats.demolab.com?user=saimhasan10&theme=transparent&hide_border=true" alt="GitHub contribution streak"/>
+</a>
 
 </div>
 
-
+---
 
 ## 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/saimhasan09">
-<img src="https://img.shields.io/badge/LinkedIn-Professional_Network-283A31?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
 </a>
 
 <a href="https://www.instagram.com/saimhasannahid/">
-<img src="https://img.shields.io/badge/Instagram-Follow-BB684D?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-Follow-0D1117?style=for-the-badge&logo=instagram&logoColor=58A6FF"/>
 </a>
 
 <a href="https://www.facebook.com/saimhasannahid/">
-<img src="https://img.shields.io/badge/Facebook-Connect-283A31?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-Connect-0D1117?style=for-the-badge&logo=facebook&logoColor=58A6FF"/>
 </a>
 
 <a href="https://www.youtube.com/@saimhasannahid">
-<img src="https://img.shields.io/badge/YouTube-Subscribe-BB684D?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-Subscribe-0D1117?style=for-the-badge&logo=youtube&logoColor=58A6FF"/>
 </a>
 
 <a href="mailto:hello@saimhasannahid.com">
-<img src="https://img.shields.io/badge/Email-Say_Hello-283A31?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Say_Hello-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
 </a>
 
 <br/><br/>
 
-### "Great products start with the right problems."
+### "Build the right product before building the product right."
 
-
+<sub>Thanks for visiting my profile! 👋</sub>
 
 </div>
