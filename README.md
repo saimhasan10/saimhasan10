@@ -368,6 +368,5 @@ Go-to-market and product adoption.
 
 ### "Build the right product before building the product right."
 
-<sub>Thanks for visiting my profile! 👋</sub>
 
 </div>
